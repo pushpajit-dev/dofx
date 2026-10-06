@@ -111,14 +111,4 @@ $$\mathbf{D_{far} = \frac{H \times s}{H - (s - f)}}$$
 
 ---
 
-## 📥 Download & Installation
 
-### Option 1: Web App / Direct APK (Recommended)
-Visit the official deployment portal to install directly on any device:
-👉 **[https://dofx.netlify.app](https://dofx.netlify.app)**
-
-```bash
-# Add as a Progressive Web App (PWA)
-1. Open [https://dofx.netlify.app](https://dofx.netlify.app) in Chrome / Safari on your mobile device.
-2. Tap "Install DOFX" or "Add to Home Screen".
-3. Launch DOFX with full offline capabilities!
