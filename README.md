@@ -12,7 +12,7 @@
 
 <!-- ACTION BUTTONS: DIRECT APK & WEB APP -->
 <p align="center">
-  <a href="https://github.com/your-username/dofx/releases/latest/download/DOFX.apk">
+  <a href="[https://github.com/your-username/dofx/releases/latest/download/DOFX.apk](https://github.com/pushpajit-dev/dofx/blob/10f7998d30d7d8322853c0f12c679dd67fc5726e/app-debug-signed.apk)">
     <img src="https://img.shields.io/badge/⬇%EF%B8%8F_DOWNLOAD_APK-Direct_Install_(GitHub)-E65100?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" height="45" />
   </a>
   <a href="https://dofx.netlify.app">
@@ -71,10 +71,8 @@ Click below to download the latest compiled Android package directly to your dev
 │  ✦ Hyperfocal Range Locking         ✦ Full History & Instant Undo      │
 │  ✦ Metric & Imperial Dual Engine    ✦ Material 3 Warm Bronze Theming   │
 └────────────────────────────────────────────────────────────────────────┘
-📐 Interactive 2D Ray Cone Ray-Tracing: Real-time interactive silhouette showing subject distance, camera position, focus plane cut, and near/far focus falloff boundaries[cite: 1, 4].✨ Live CameraX & Synthetic Bokeh Simulation: Switch seamlessly between real optical hardware feeds and procedural bokeh rendering with customizable point-source shapes (City Lights, Sunset, Garden)[cite: 3, 7].🎯 Precision Depth of Field Computing: Instant calculation of Near Limit, Far Limit, Total Depth of Field, and Hyperfocal Distance with zero latency[cite: 1, 4].🔄 10-Step History & Undo Stack: Never lose a preset. Inspect past changes with active state rollbacks (Sensor changed, Aperture adjusted, etc.)[cite: 2].🌗 Dynamic High-Contrast & Dark Mode: Handcrafted for extreme lighting conditions—from direct sunlight shoots to darkroom and night cinematography[cite: 1, 4, 6].📏 Dual Measurement Units: Instant 1-tap toggle between Imperial (ft/in) and Metric (mm/cm/m)[cite: 1, 4].📱 Mobile App Tour📐 2D Ray Cone View🌃 Bokeh & CameraX📜 History & Rollback📖 Optical ScienceRay-cone visualizer, subject distance & plane calculation[cite: 1, 4]Live aperture simulation (f/1.4 to f/22), light characteristics[cite: 3, 7]Full adjustment timeline with 1-click state restore[cite: 2]Onboard optical physics and CoC formulas[cite: 5]`Near 5' 5.1"Far 6' 2.8"`[cite: 1]`City LightsSunset
-
-🔬 The Optical Physics EngineDOFX implements standard optical physics without rounding shortcuts, calibrated against digital 35mm full-frame and crop sensor benchmarks[cite: 5]:1. 🎯 Hyperfocal Distance ($H$)$$\mathbf{H = f + \frac{f^2}{N \times c}}$$$f$ = Focal Length (in millimeters)[cite: 5]$N$ = Lens Aperture ($f$-number)[cite: 5]$c$ = Circle of Confusion diameter ($\approx \frac{\text{Sensor Diagonal}}{1500} = 0.029\text{mm}$ for 35mm full frame)[cite: 5]Example benchmark: $50\text{mm}$ at $f/3.5$ on a Full Frame sensor yields $H = 80\text{' } 11.7\text{"}$[cite: 5].2. 📏 Depth of Field Limits ($D_{near}$ & $D_{far}$)$$\mathbf{D_{near} = \frac{H \times s}{H + (s - f)}}$$$$\mathbf{D_{far} = \frac{H \times s}{H - (s - f)}}$$$s$ = Subject Distance[cite: 5]When $s \ge H$, $D_{far}$ extends infinitely ($\infty$)[cite: 5].⚙️ Technical HighlightsArchitecture: Modern Android MVVM with Clean Architecture principles.UI Framework: Material 3 (Material You) with custom Canvas vectors for ray paths.Camera Pipeline: AndroidX CameraX API providing zero-lag optical sensor control.Calculations: High-precision floating-point optical computation engine running off the main thread.Distribution: Static PWA & Progressive Android web package hosted on Netlify CDN.🎨 Theming & InterfaceDOFX follows an intentional, warm-editorial color system inspired by vintage optical equipment and film cameras:☕ Espresso Surface : #1E1916 (Dark Theme Base)
 🌾 Cream Canvas     : #FBF8F5 (Light Theme Base)
 🪵 Warm Amber Brand : #8B5A2B (Primary Accents & Ray Highlights)
 🌿 Active Status    : #4CAF50 (Sensor Active Indicators)
-Built for Cinematographers, Directors of Photography, and Optical Enthusiasts.© DOFX Project • Built with precision optics • Released under the MIT License
+Built for Cinematographers, Directors of Photography, and O
+ptical Enthusiasts.© DOFX Project • Built with precision optics • Released under the MIT License
