@@ -50,12 +50,6 @@ Click below to immediately start downloading the signed Android package:
 
 </div>
 
-```bash
-# How to install the APK on Android:
-1. Tap the "DOWNLOAD DOFX.APK" button above to start downloading.
-2. Open the downloaded app-debug-signed.apk file on your phone.
-3. If prompted, allow "Install from unknown sources" in Settings/Chrome.
-4. Tap "Install" and launch DOFX!
 
 ```bash
 # How to install the APK on Android:
