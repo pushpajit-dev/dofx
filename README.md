@@ -12,8 +12,8 @@
 
 <!-- ACTION BUTTONS: DIRECT APK & WEB APP -->
 <p align="center">
-  <a href="[https://github.com/pushpajit-dev/dofx/blob/10f7998d30d7d8322853c0f12c679dd67fc5726e/app-debug-signed.apk]">
-    <img src="https://img.shields.io/badge/⬇%EF%B8%8F_DOWNLOAD_APK-Direct_Install_(GitHub)-E65100?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" height="45" />
+  <a href="https://github.com/pushpajit-dev/dofx/raw/10f7998d30d7d8322853c0f12c679dd67fc5726e/app-debug-signed.apk">
+    <img src="https://img.shields.io/badge/⬇%EF%B8%8F_DOWNLOAD_APK-Direct_Download_(GitHub)-E65100?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" height="45" />
   </a>
   <a href="https://dofx.netlify.app">
     <img src="https://img.shields.io/badge/🌐_LIVE_WEB_APP-dofx.netlify.app-4E342E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web Version" height="45" />
@@ -21,9 +21,10 @@
 </p>
 
 <!-- STATUS BADGES -->
-[![GitHub Release](https://img.shields.io/github/v/release/your-username/dofx?color=E65100&label=APK%20Build&style=flat-square)](https://github.com/your-username/dofx/releases)
+[![APK Build](https://img.shields.io/badge/APK_Build-Signed_Release-E65100?style=flat-square&logo=android&logoColor=white)](https://github.com/pushpajit-dev/dofx/raw/10f7998d30d7d8322853c0f12c679dd67fc5726e/app-debug-signed.apk)
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20Web-3DDC84?style=flat-square&logo=android&logoColor=white)](https://dofx.netlify.app)
 [![Design](https://img.shields.io/badge/Design-Material_3-7B1FA2?style=flat-square&logo=material-design&logoColor=white)](https://m3.material.io)
+[![Repository](https://img.shields.io/badge/GitHub-pushpajit--dev%2Fdofx-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pushpajit-dev/dofx)
 [![License](https://img.shields.io/badge/License-MIT-amber?style=flat-square)](#)
 
 <br/>
@@ -39,15 +40,22 @@
 
 ## 📲 Direct APK Download
 
-Click below to download the latest compiled Android package directly to your device:
+Click below to immediately start downloading the signed Android package:
 
 <div align="center">
 
-[![Download DOFX APK](https://img.shields.io/badge/⚡_DOWNLOAD_DOFX.APK-v1.0.0_(Direct_Download)-success?style=for-the-badge&logo=android&logoColor=white)](https://github.com/your-username/dofx/releases/latest/download/DOFX.apk)
+[![Download DOFX APK](https://img.shields.io/badge/⚡_DOWNLOAD_DOFX.APK-Direct_Download-success?style=for-the-badge&logo=android&logoColor=white)](https://github.com/pushpajit-dev/dofx/raw/10f7998d30d7d8322853c0f12c679dd67fc5726e/app-debug-signed.apk)
 
-*Alternative web app mirror: [dofx.netlify.app](https://dofx.netlify.app)*
+*Online progressive web version: [dofx.netlify.app](https://dofx.netlify.app)*
 
 </div>
+
+```bash
+# How to install the APK on Android:
+1. Tap the "DOWNLOAD DOFX.APK" button above to start downloading.
+2. Open the downloaded app-debug-signed.apk file on your phone.
+3. If prompted, allow "Install from unknown sources" in Settings/Chrome.
+4. Tap "Install" and launch DOFX!
 
 ```bash
 # How to install the APK on Android:
