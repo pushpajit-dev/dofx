@@ -12,7 +12,7 @@
 
 <!-- ACTION BUTTONS: DIRECT APK & WEB APP -->
 <p align="center">
-  <a href="https://github.com/pushpajit-dev/dofx/blob/10f7998d30d7d8322853c0f12c679dd67fc5726e/app-debug-signed.apk">
+  <a href="[https://github.com/pushpajit-dev/dofx/blob/10f7998d30d7d8322853c0f12c679dd67fc5726e/app-debug-signed.apk]">
     <img src="https://img.shields.io/badge/⬇%EF%B8%8F_DOWNLOAD_APK-Direct_Install_(GitHub)-E65100?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" height="45" />
   </a>
   <a href="https://dofx.netlify.app">
